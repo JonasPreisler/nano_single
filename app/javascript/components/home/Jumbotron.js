@@ -7,9 +7,10 @@ const Jumbotron = () => {
         <div className='row'>
           <div className='col col-sm-12 col-md-5'>
             <div className='pt-4 mt-4'>
-              <h1> for Rails ddd
+              <h1> for Rails dddadsfasdf
                 
-              </h1>
+              </h1>dfdfff
+              
               <p>Supercharge your Rails apps with React.js</p>
             </div>
           </div>
